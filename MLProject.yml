@@ -4,4 +4,4 @@ conda_env: conda.yml
 
 entry_points:
   main:
-    command: "python train.py"
+    command: 'python train.py'
