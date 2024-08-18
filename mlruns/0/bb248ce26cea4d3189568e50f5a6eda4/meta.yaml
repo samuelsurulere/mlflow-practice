@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/bb248ce26cea4d3189568e50f5a6eda4/artifacts
+end_time: 1723959160256
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bb248ce26cea4d3189568e50f5a6eda4
+run_name: classy-crab-588
+run_uuid: bb248ce26cea4d3189568e50f5a6eda4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723959157392
+status: 3
+tags: []
+user_id: sammie

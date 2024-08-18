@@ -3,3 +3,5 @@ mlflow
 pandas
 numpy
 joblib
+virtualenv
+pyenv
