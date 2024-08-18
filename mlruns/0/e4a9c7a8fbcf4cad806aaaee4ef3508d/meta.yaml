@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/e4a9c7a8fbcf4cad806aaaee4ef3508d/artifacts
+end_time: 1723957710466
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: e4a9c7a8fbcf4cad806aaaee4ef3508d
+run_name: amusing-snipe-945
+run_uuid: e4a9c7a8fbcf4cad806aaaee4ef3508d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723957707178
+status: 3
+tags: []
+user_id: sammie

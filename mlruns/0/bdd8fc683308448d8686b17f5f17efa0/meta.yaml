@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/bdd8fc683308448d8686b17f5f17efa0/artifacts
+end_time: 1723957695640
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bdd8fc683308448d8686b17f5f17efa0
+run_name: adaptable-snipe-544
+run_uuid: bdd8fc683308448d8686b17f5f17efa0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723957691612
+status: 3
+tags: []
+user_id: sammie
