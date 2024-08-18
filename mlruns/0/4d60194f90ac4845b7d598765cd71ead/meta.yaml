@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/4d60194f90ac4845b7d598765cd71ead/artifacts
+end_time: 1723956054324
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4d60194f90ac4845b7d598765cd71ead
+run_name: sneaky-mink-72
+run_uuid: 4d60194f90ac4845b7d598765cd71ead
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723956049639
+status: 3
+tags: []
+user_id: sammie

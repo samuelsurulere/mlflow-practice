@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/029eb2e3b9554f9ca1a996898c3d11aa/artifacts
+end_time: 1723956119590
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 029eb2e3b9554f9ca1a996898c3d11aa
+run_name: sincere-ape-101
+run_uuid: 029eb2e3b9554f9ca1a996898c3d11aa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723956115567
+status: 3
+tags: []
+user_id: sammie

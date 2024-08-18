@@ -1,0 +1,15 @@
+artifact_uri: file:///c:/Users/samue/OneDrive/Documents/projects/mlflow-practice/mlruns/0/61f60341191f4209a67c127acad466f1/artifacts
+end_time: 1723956149665
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 61f60341191f4209a67c127acad466f1
+run_name: bedecked-crane-106
+run_uuid: 61f60341191f4209a67c127acad466f1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1723956145434
+status: 3
+tags: []
+user_id: sammie
